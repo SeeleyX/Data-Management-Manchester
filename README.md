@@ -2,4 +2,4 @@ A little story about data management. Indubitably. A little change to try and fi
 
 [x] Create a README.md
 [x] Make our first commit
-[] Fix this tpyo
+[x] Fix this typo
