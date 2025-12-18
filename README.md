@@ -4,4 +4,4 @@ A little story about data management. Indubitably. A little change to try and fi
 [x] Make our first commit
 [x] Fix this typo
 
-This commit will be puushed to the repository.
+This commit will be pushed to the repository.
